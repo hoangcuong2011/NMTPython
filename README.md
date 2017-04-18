@@ -1,13 +1,3 @@
-# RNN language model using Tensorflow
+My own effort for building an NMT from scratch, using Tensorflow.
+The code is based on this project: https://github.com/claravania/rnn-lm-tensorflow
 
-Code based on tensorflow tutorial on building a PTB LSTM model. https://www.tensorflow.org/versions/r0.9/tutorials/recurrent/index.html#recurrent-neural-networks
-
-### Dataset:
-- PTB: http://www.fit.vutbr.cz/~imikolov/rnnlm/simple-examples.tgz
-- tinyshakespeare: https://github.com/karpathy/char-rnn/tree/master/data/tinyshakespeare
-
-### Usage:
-- train: python train.py
-- test: python test.py
-# NMTPython
-# NMTPython
